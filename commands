@@ -1,0 +1,14 @@
+import java.io.*
+
+class test{
+public static void main(String arg[]){ 
+ String[] ar={"sweet",{"red"["a","b","c"],
+                                "green"{"d","c","f"}
+                             },
+                           "sour"};
+}
+}
+INSERT INTO Media VALUES(7,"bell","kill",'11-06-12 19:34:08 PM','18-06-12 10:34:09 PM',"picture","get this ",6)
+INSERT INTO Content VALUES(7,55,15,4,'11-06-12 19:34:08 PM','18-06-12 10:34:09 PM',15,14,"picture","get this ","good")
+INSERT INTO Content VALUES(1,nares@gmail.com,1)
+INSERT INTO Content VALUES(1,2,3,'11-06-12 19:34:08 PM',viewed)
