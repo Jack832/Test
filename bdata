@@ -1,6 +1,6 @@
-1.git branch
+2.git branch
 -- List all branches
-2.git branch <branch-name>
+1.git branch <branch-name>
 --Create a new branch using the current working directory as its base.
 3.git checkout <branch-name>
 --Make the working directory and the HEAD match the specified branch.
