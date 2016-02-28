@@ -1,16 +1,14 @@
 
 
 -- List all branches
-2.git branch <branch-name>
+1.git branch <branch-name>
 --Create a new branch using the current working directory as its base.
 3.git checkout <branch-name>
 --Make the working directory and the HEAD match the specified branch.
+
 4.git add .
 --adding files to <branch>
 5.git commit -m "second commit"
 --committing changes
-6.git push origin <branch-name>
---pushing files to branch
-7.git checkout master
---Make the working directory and the HEAD match the master
+
 
