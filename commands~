@@ -3,7 +3,11 @@ import java.io.*
 class test{
 public static void main(String arg[]){ 
  String[] ar={"sweet",{"red"["a","b","c"],
-                                "green"{"d","c","f"}
+<<<<<<< HEAD
+                                "green"{"d","c","f","e"}
+=======
+                                "green"{}
+>>>>>>> cfb0eb0a7f2b4e8b73d5380a31665dbcc684003b
                              },
                            "sour"};
 }

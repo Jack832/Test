@@ -1,5 +1,8 @@
-1.git branch
+
+<<<<<<< HEAD
+=======
 -- List all branches
+>>>>>>> cfb0eb0a7f2b4e8b73d5380a31665dbcc684003b
 2.git branch <branch-name>
 --Create a new branch using the current working directory as its base.
 3.git checkout <branch-name>
@@ -15,5 +18,5 @@
 8.git merge <branch-name>
 --merging branch to the master
 9.git push origin master
---push files to master
+-
 
