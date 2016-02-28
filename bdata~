@@ -1,4 +1,4 @@
-2.git branch
+
 -- List all branches
 1.git branch <branch-name>
 --Create a new branch using the current working directory as its base.
