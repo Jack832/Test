@@ -13,8 +13,4 @@
 --pushing files to branch
 7.git checkout master
 --Make the working directory and the HEAD match the master
-8.git merge <branch-name>
---merging branch to the master
-9.git push origin master
--
 
